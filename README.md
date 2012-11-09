@@ -1,4 +1,4 @@
 test
 ====
 
-testing GIT
+testing GIT's basics
